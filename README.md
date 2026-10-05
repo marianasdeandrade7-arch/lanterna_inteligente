@@ -1,17 +1,41 @@
-# lanterna_inteligente
+# 🔦 Lanterna Inteligente
 
-A new Flutter project.
+## Sobre o projeto
 
-## Getting Started
+Este projeto foi desenvolvido a partir de um código disponibilizado pela professora, com o objetivo de criar uma Lanterna Inteligente utilizando Flutter.
 
-This project is a starting point for a Flutter application.
+A proposta é utilizar os recursos disponíveis no dispositivo para controlar a lanterna de forma simples e prática.
 
-A few resources to get you started if this is your first Flutter project:
+## Melhorias realizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+A partir do código-base fornecido pela professora, foram realizadas algumas alterações e melhorias no projeto:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Organização da estrutura do aplicativo;
+- Melhorias na interface visual;
+- Ajustes nos botões e elementos da tela;
+- Alterações no layout para deixar o aplicativo mais organizado;
+- Melhorias na interação com o usuário;
+- Ajustes no funcionamento da lanterna;
+- Adaptação do aplicativo para diferentes dispositivos;
+- Correção e organização do código.
+
+## Funcionamento
+
+O aplicativo apresenta uma interface para controlar a lanterna do dispositivo. Quando executado em um celular ou tablet que possui suporte ao recurso de flash, o sistema pode utilizar a lanterna do aparelho.
+
+Em dispositivos que não possuem flash, a interface do aplicativo continua funcionando, mas o recurso físico da lanterna não pode ser acionado.
+
+## Objetivo
+
+O objetivo da atividade foi praticar os conhecimentos de desenvolvimento de aplicativos em Flutter, realizando modificações em um código-base e implementando melhorias na interface e no funcionamento do projeto.
+
+## Tecnologias utilizadas
+
+- Flutter
+- Dart
+- Visual Studio Code
+- Android
+
+## Desenvolvimento
+
+O projeto foi desenvolvido como atividade acadêmica, utilizando como base o código fornecido em aula e realizando alterações para personalizar e melhorar o aplicativo.

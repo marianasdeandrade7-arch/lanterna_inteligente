@@ -48,7 +48,7 @@ class _LanternaScreenState extends State<LanternaScreen> {
   static const Color painelclaro = Color(0xFF1D1D2A);
   static const Color roxo = Color(0xFF8B5CF6);
   static const Color roxoClaro = Color(0xFFA78BFA);
-  static const Color amarelo = Color(0xFFFFC857);
+  static const Color amarelo = Color.fromARGB(255, 250, 167, 2);
   static const Color cinza = Color(0xFF8B8B98);
 
   // O torch_light funciona em Android e iOS.
